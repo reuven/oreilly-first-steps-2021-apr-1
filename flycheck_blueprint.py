@@ -2,4 +2,6 @@
 
 import rich
 
-name = input('Enter your name
+name = input('Enter your name: ')
+
+rich.print(f'Hello, [blue'
