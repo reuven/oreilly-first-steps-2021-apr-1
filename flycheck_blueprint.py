@@ -2,3 +2,4 @@
 
 import rich
 
+name = input('Enter your name
