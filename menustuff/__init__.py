@@ -1,1 +1,1 @@
-from . import menu
+from menustuff.menu import menu
