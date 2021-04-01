@@ -4,5 +4,5 @@ def menu(*args):  # args is a tuple containing all passed arguments
     if user_choice in args:
         return user_choice
 
-    else:
+    print(f'Hey! {user_choice} w'
     
