@@ -12,3 +12,4 @@ def menu(*args):  # args is a tuple containing all passed arguments
 
 if __name__ == '__main__':
     user_choice = menu('a', 'b', 'c')
+    
