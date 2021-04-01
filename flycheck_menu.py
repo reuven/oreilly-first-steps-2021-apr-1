@@ -1,6 +1,6 @@
 def menu(*args):  # args is a tuple containing all passed arguments
     while True:
-
+        choice = 
         user_choice = input('Enter your choice: ')
 
         if user_choice in args:
