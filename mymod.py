@@ -1,6 +1,7 @@
 import random   # here, mymod is importing random
 
-print(f'Hello from {__name__}!')
+if __name__ == '__main__':
+    print(f'Hello from {__name__}!')
 
 x = 100
 
@@ -13,4 +14,5 @@ def hello(name):
     return f'Hello, {name}!'
 
 
-print(f'Goodbye from {__name__}!')
+if __name__ == '__main__':
+    print(f'Goodbye from {__name__}!')
