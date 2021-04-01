@@ -1,7 +1,7 @@
-x = 12345
+s = 'This is a string'
 
-y = {10, 20, 30, 40, 50}
+t = (1000, 2000, 3000)
 
 
 def hello(name):
-    return f'Hello from mymoda, {name}!'
+    return f'Hello from mymodb, {name}!'
