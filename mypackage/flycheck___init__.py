@@ -2,7 +2,7 @@
 # when it runs, it then imports mymoda and mymodb from the current directory
 
 # note that . ONLY WORKS in the context of __init__.py for a package, and only
-# in a "from  - import sttate
+# in a "from - import statement"
 
 from . import mymoda
 from . import mymodb
