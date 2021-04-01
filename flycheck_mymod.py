@@ -15,6 +15,6 @@ def hello(name):
 
 
 # stuff below this line, and this "if" statement, will only execute
-# when the module is run
+# when the module is run as a standalone program.  When it is 
 if __name__ == '__main__':
     print(f'Goodbye from {__name__}!')
