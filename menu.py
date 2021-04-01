@@ -8,3 +8,8 @@ def menu(*args):  # args is a tuple containing all passed arguments
 
         # f-string, evaluates stuff in {}
         print(f'Hey! {user_choice} was not in args!')
+
+
+if __name__ == '__main__':
+    user_choice = menu('a', 'b', 'c')
+    print(f'The user chose {user_choice}')
