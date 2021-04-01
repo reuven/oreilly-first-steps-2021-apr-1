@@ -1,3 +1,5 @@
+import random
+
 print('Hello from mymod!')
 
 x = 100
