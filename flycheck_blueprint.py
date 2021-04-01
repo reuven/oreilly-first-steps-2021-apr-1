@@ -4,4 +4,4 @@ import rich
 
 name = input('Enter your name: ')
 
-rich.print(f'Hello, [blue'
+rich.print(f'Hello, [blue]{name}[/blue]!')
