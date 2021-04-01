@@ -1,7 +1,7 @@
 def menu(*args):  # args is a tuple containing all passed arguments
     while True:
         choices = '/'.join(sorted(args))
-        user_choice = input(f'Enter your choice: ')
+        user_choice = input(f'Enter your choice ({choices}): ')
 
         if user_choice in args:
             return user_choice
