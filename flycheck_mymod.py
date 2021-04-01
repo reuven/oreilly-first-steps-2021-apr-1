@@ -14,6 +14,7 @@ def hello(name):
     return f'Hello, {name}!'
 
 
-
+# stuff below this line, and this "if" statement, will only execute
+# when the module is run
 if __name__ == '__main__':
     print(f'Goodbye from {__name__}!')
