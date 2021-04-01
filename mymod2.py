@@ -1,10 +1,9 @@
-"""first line
+"""A fantastic module for learning about modules!
 
-second line
+This is a collection of data and functions useful for people learning
+about Python modules.
 
-third line
-
-fourth line
+Wow!  How terrific!
 """
 
 
